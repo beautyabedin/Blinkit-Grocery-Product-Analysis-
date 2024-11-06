@@ -1,5 +1,6 @@
 # blinkit Grocery Product Analysis Project
 
+![image](https://github.com/user-attachments/assets/2549956b-d2b7-4e11-b136-e9bd8b94f178)
 
 ## Project Description
 The BlinkIT Grocery Product Analysis Project focuses on analyzing the performance of grocery products within the BlinkIT app, a popular grocery delivery platform. The project involves data extraction, transformation, and visualization to provide actionable insights into product demand, customer preferences, and campaign effectiveness. Using Power BI, an interactive dashboard was created to facilitate the exploration of product metrics and optimize marketing and sales strategies.
